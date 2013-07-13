@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Greed</string>
+    <string name="action_settings">Reset</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="total_text">Your total score: </string>
+    <string name="current_text">Your current score: </string>
+    <string name="current_score">0</string>
+    <string name="total_score">0</string>
+    
+    <string name="throw_text">Throw</string>
+    <string name="save_text">Save</string>  
+
+</resources>
